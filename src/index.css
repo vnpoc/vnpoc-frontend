@@ -12,3 +12,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+.fondoClaro {
+  text-align: 'center';
+  color: black;
+  background-color: #88AAFF;
+}
